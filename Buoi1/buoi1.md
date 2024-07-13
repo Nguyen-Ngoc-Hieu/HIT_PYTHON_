@@ -31,16 +31,11 @@ int (Số nguyên), float (Số thực), string (Chuỗi), list (Danh sách),boo
 -Cú pháp: 
 if điều_kiện : nội dung
 <br>
-Lưu đồ thuật toán
-<br>
-![](https://viettuts.vn/images/lap-trinh-cpp/menh-de-if-else-trong-c++.png)
 4. Vòng lặp trong python
 <br>
 - Vòng lặp for sử dụng để lặp qua một biến qua một dãy (List hoặc String) theo thứ tự chúng xuất hiện
 <br>
 -Cú pháp: for biến_lặp in chuỗi_lặp: nội dung
-<br>
-![](https://www.baitaponha.com/uploads/news/2023_04/vonglapfor_1.png)
 <br>
 - Vòng lặp while sử dụng để lặp lại một khối mã chương trình khi điều kiện vẫn đúng
 <br>
